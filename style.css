@@ -63,7 +63,7 @@ body {
 
 
 .card--1 .card__img, .card--1 .card__img--hover {
-    background-image: url('https://play-lh.googleusercontent.com/-Yj-B7Chm4y3yhf3jkuY1G1znjxZcAsk-6uvKopWcx-2AG-CgSmTNQZy1z1koa3AhFg');
+    background-image: url('https://play-lh.googleusercontent.com/86Pob3urNQBStREuUUrYh1VQ2cExujlQdsg5lpieEGCdQQz_5eynS_Enb85kB-Ehgek');
 }
 
 .card--2 .card__img, .card--2 .card__img--hover {
@@ -132,6 +132,10 @@ body {
 
 .card--18 .card__img, .card--18 .card__img--hover {
     background-image: url('https://cdn.shopify.com/s/files/1/0272/9725/articles/Paypal_Banner01.jpg?v=1499305885');
+}
+
+.card--19 .card__img, .card--19 .card__img--hover {
+    background-image: url('https://www.devwithmatt.com/Img/github.png');
 }
 
 .card__img {
