@@ -138,6 +138,14 @@ body {
     background-image: url('https://www.devwithmatt.com/Img/github.png');
 }
 
+.card--20 .card__img, .card--20 .card__img--hover {
+    background-image: url('https://d2jixqqjqj5d23.cloudfront.net/assets/developer/imgs/icons/google-spreadsheet-icon.png');
+}
+
+.card--21 .card__img, .card--21 .card__img--hover {
+    background-image: url('https://yt3.ggpht.com/ytc/AKedOLTNQ0-bpJol_-56bmmf0OP8bb1Ldepg8Z1xnaWS=s900-c-k-c0x00ffffff-no-rj');
+}
+
 .card__img {
   visibility: hidden;
     background-size: cover;
